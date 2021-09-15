@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'pp.jpg',
+  img: 'pp.jpeg',
   paragraphOne: 'Richard Mathews, 21 anos, programador e me graduando em Sistemas de informação. ',
   paragraphTwo:
     'Atualmente atuo no desenvolvimento de aplicativos móveis e websites, incluindo aplicativo de rastreamento veicular, plataformas de atendimento ao cliente e gerenciamento empresarial.',
