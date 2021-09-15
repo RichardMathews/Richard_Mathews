@@ -32,5 +32,11 @@ module.exports = {
         icon: 'src/images/favicon.png',
       },
     },
+    {
+      resolve: `gatsby-plugin-remove-serviceworker`,
+      options: {
+        filename: `runtime-service-worker.js`,
+      },
+    },
   ],
 };
