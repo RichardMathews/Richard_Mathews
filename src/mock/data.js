@@ -22,7 +22,7 @@ export const aboutData = {
   paragraphTwo:
     'Atualmente atuo no desenvolvimento de aplicativos móveis e websites, incluindo aplicativo de rastreamento veicular, plataformas de atendimento ao cliente e gerenciamento empresarial.',
   paragraphThree: 'Estou sempre interessado em novos desafios. ',
-  resume: 'https://drive.google.com/u/0/uc?id=1na30ODrZ64N_LbfcN7dBrhe9oCuW1ugB&export=download', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/u/0/uc?id=1vfeTbk1K7CFiKUFcqGia2XrYG4ogYZS6&export=download', // if no resume, the button will not show up
 };
 
 // https://www.resumemaker.online/es.php
