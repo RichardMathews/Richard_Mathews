@@ -18,9 +18,9 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'Me.jpg',
-  paragraphOne: 'Richard Mathews, 21 anos, programador e me graduando em Sistemas de informação. ',
+  paragraphOne: 'Richard Mathews, 22 anos, programador e me graduando em Sistemas de informação. ',
   paragraphTwo:
-    'Atualmente atuo no desenvolvimento de aplicativos móveis e websites, incluindo aplicativo de rastreamento veicular, plataformas de atendimento ao cliente e gerenciamento empresarial.',
+    'Atualmente atuo no desenvolvimento de plataforma de pagamentos e gerenciamento empresarial.',
   paragraphThree: 'Estou sempre interessado em novos desafios. ',
   resume: 'https://drive.google.com/u/0/uc?id=1vfeTbk1K7CFiKUFcqGia2XrYG4ogYZS6&export=download', // if no resume, the button will not show up
 };
